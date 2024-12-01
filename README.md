@@ -1,9 +1,9 @@
 <h1>Aircraft Risk Analysis</h1>
 
+<h2>Description</h2>
 This project focuses on analyzing risks associated with aircraft operations using data-driven techniques. It aims to identify key risk factors, visualize patterns, and provide actionable insights for improving safety.
 
-<h2>Description</h2>
-The Aircraft Risk Analysis project is a data science initiative to understand trends in aircraft incidents, accidents, and associated risks. The analysis helps aviation stakeholders decide which low-risk aircraft to purchase and operate on, as well start the business enedeavour.
+This repository contains a python script for analyzing trends in aircraft incidents, accidents, and associated risks. The analysis helps aviation stakeholders decide which low-risk aircraft to purchase and operate on, as well start the business enedeavour.
 
 <h2>Features</h2>
 Analysis of historical aircraft incident data.
